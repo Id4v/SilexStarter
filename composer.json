@@ -1,0 +1,21 @@
+{
+    "name": "id4v/silex-starter",
+    "config": {
+        "vendor-dir": "vendor"
+    },
+    "autoload": {
+        "psr-0": {
+            "":"vendor/"
+        }
+    },
+    "require": {
+        "id4v/corebundle": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "David Rimbault",
+            "email": "rimbault.david@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}

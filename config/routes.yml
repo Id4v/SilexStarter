@@ -1,0 +1,5 @@
+routes:
+    homepage:
+        path: /
+        controller: \Id4v\CarCheckBundle\Controller\HomeController::index
+        methods: GET
