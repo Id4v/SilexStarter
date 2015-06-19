@@ -1,5 +1,5 @@
 routes:
     homepage:
         path: /
-        controller: \Id4v\CarCheckBundle\Controller\HomeController::index
+        controller: \Id4v\CoreBundle\Controller\BaseController::index
         methods: GET
